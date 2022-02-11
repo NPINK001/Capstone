@@ -18,7 +18,7 @@ Machine Learning, self-awareness
 Krauss, Patrick, and Andreas Maier. “Will We Ever Have Conscious Machines?.” Frontiers in computational neuroscience vol. 14 556544. 22 Dec. 2020, doi:10.3389/fncom.2020.556544
 ### Repo link
 
-### -----------------------------------------------------------------------------------------------------------------------------
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Title
 "The  Cortical  Conductor  Theory:   Towards  Addressing  Consciousness  in  AI  Models "
@@ -32,7 +32,7 @@ Deep Learning, Neural Networks
 
 ### Repo link
 
-### ------------------------------------------------------------------------------------------------------------------------
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Title
 "AI and Consciousness: A New Look at an Age-Old Question | Andreas Maier | TEDxNuremberg "
@@ -46,7 +46,7 @@ Philosophy, Neuroscience, Machine Learning, Theroies of Consciousness
 
 ### Repo link
 
-### ------------------------------------------------------------------------------------------------------------------------
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Title
 "Comments on “The Replication of the Hard Problem of Consciousness in AI and Bio-AI”."
@@ -60,28 +60,81 @@ Phenomenal consciousness, Strong AI, Turing machine, Weak AI
 Dournaee, B. H. (2010). Comments on “The Replication of the Hard Problem of Consciousness in AI and Bio-AI.” Minds & Machines, 20(2), 303–309. https://doi.org/10.1007/s11023-010-9188-9
 ### Repo link
 
-### ------------------------------------------------------------------------------------------------------------------------
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Title
-""
+"What Is It Like to Be a Bat?"
 ### URL
-
+https://www.jstor.org/stable/2183914?origin=crossref&seq=1#metadata_info_tab_contents 
 ### Summary 
-""
+"in  order  to  shed  light  on  the relationship  between  mind  and  body,  one  must  address  consciousness  --  and reductionism  fails  to  do  that.    He  does  state  that  we  "cannot  be  sure"  of  the presence  of  consciousness  in  lesser  cognitive  animals,  but  he  believes  in  a  multiple formed  belief  of  consciousness."
+### Key Points 
+Philosophical approach, Perspective
+### Citation
+
+### Repo link
+
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Title
+"Life 3.0: Being Human in the Age of Artificial Intelligence"
+### URL
+*It's a book
+### Summary 
+This book talks about the "future of life on Earth and beyond. The book discusses a variety of societal implications, what can be done to maximize the chances of a positive outcome, and potential futures for humanity, technology and combinations thereof."
+### Key Points 
+
+### Citation
+Tegmark, Max. Life 3.0: Being Human in the Age of Artificial Intelligence. Alfred A. Knopf, 2017 
+### Repo link
+
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Title
+"'Westworld' science adviser shares his vision of robots and the future of AI"
+### URL
+https://www.nbcnews.com/mach/science/westworld-science-adviser-shares-his-vision-robots-future-ai-ncna883321  
+### Summary 
+
 ### Key Points 
 
 ### Citation
 
 ### Repo link
-
-### ------------------------------------------------------------------------------------------------------------------------
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Title
 ""
 ### URL
 
 ### Summary 
+
+### Key Points 
+
+### Citation
+
+### Repo link
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Title
 ""
+### URL
+
+### Summary 
+
+### Key Points 
+
+### Citation
+
+### Repo link
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Title
+""
+### URL
+
+### Summary 
+
 ### Key Points 
 
 ### Citation
