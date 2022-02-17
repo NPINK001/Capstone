@@ -1,6 +1,6 @@
 ---
 name: 'text'
-about: 'ai'
+about: 'info'
 title: ''
 labels: ''
 assignees: ''
